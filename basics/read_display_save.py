@@ -1,3 +1,19 @@
+"""
+Lesson 1: Read, Display & Save Image
+S.No: 01
+Date: 2025-06-08
+Author: Sadan Asampally.
+e-mail: sachimicromasters@gmail.com
+
+Description:
+- Read an image from disk
+- Display the image in a window
+- Save the image to output folder
+"""
+
+
+
+
 #import OpenCV library
 import cv2
 

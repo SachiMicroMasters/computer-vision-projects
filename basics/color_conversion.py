@@ -1,3 +1,19 @@
+"""
+Lesson 2: Color Space Conversion
+S.No: 02
+Date: 2025-06-08
+Author: Sadan Asampally.
+e-mail: sachimicromasters@gmail.com
+
+Description:
+- Read image from disk
+- Convert from BGR to Grayscale and HSV
+- Display and save converted images
+"""
+
+
+
+
 # Import OpenCV and OS modules
 import cv2
 import os
