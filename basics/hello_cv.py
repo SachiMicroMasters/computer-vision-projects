@@ -1,5 +1,5 @@
 """
-Lesson 1: Hello OpenCV
+Lesson 0: Hello OpenCV
 S.No: 01
 Date: 2025-06-08
 Author: Sadan Asampally
