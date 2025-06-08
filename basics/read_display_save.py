@@ -2,7 +2,7 @@
 import cv2
 
 # Read the image from the 'basics' folder using relative path
-image = cv2.imread("basics/logo.png")
+image = cv2.imread("inputs/logo.png")
 
 # Check if the image was loaded successfully
 if image is None:
@@ -13,6 +13,6 @@ else:
       # Wait indefinitely for a key press
       cv2.waitKey(0)
       # Save the displayed image to 'basics/OutputImage.png'
-      cv2.imwrite("basics/OutputImage.png", image)
+      cv2.imwrite("outputs/OutputImage.png", image)
       # Close all OpenCV windows
       cv2.destroyAllWindows()
