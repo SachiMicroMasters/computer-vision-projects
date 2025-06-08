@@ -1,6 +1,6 @@
 """
 Lesson 2: Color Space Conversion
-S.No: 02
+S.No: 01
 Date: 2025-06-08
 Author: Sadan Asampally.
 e-mail: sachimicromasters@gmail.com
